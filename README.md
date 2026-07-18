@@ -40,6 +40,7 @@ Graphs are generated for various causes of death including:
 - Cardiovascular Diseases
 - Lower Respiratory Infections
 - Neoplasms
+- Covid
 
 ---
 
